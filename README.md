@@ -69,3 +69,16 @@ Além disso, a aplicação da propriedade distributiva foi capaz de simplificar 
 Observamos também que pelas ondas geradas através do código de teste, conseguimos observar o fluxo do funcionamento, obedecendo os sinais de controle, sendo esta uma ferramenta eficaz na visualização do comportamento das entradas e saídas.
 
 Ao compilar o programa no Quartus para a FPGA, nós pudemos observar com sucesso as funcionalidades do planejamento de todo o trabalho proposto realizado com o grupo, passando do lado abstrato (codificação) para o concreto (palpável).
+
+# Referências
+
+VERILOG TUTORIAL FOR BEGINNERS. Disponível em: 
+<http://referencedesigner.com/tutorials/verilog/verilog_01.php>. Acesso em: 12 out. 2018
+
+VERILOG TUTORIAL. Disponível em: <http://www.asicworld.com/verilog/veritut.html>. Acesso em: 12 out. 2018
+
+DOWNLOAD ICARUS VERILOG . Disponível em: <http://bleyer.org/icarus>. Acesso em: 12 out. 2018
+
+DOWNLOAD GTKWAVE. Disponível em: <http://www.dspia.com/gtkwave.html>. Acesso em: 12 out. 2018
+
+DOWNLOAD Quartus Prime Lite Edition. Disponível em: <http://fpgasoftware.intel.com/?edition=lite>. Acesso em: 29 out. 2018
