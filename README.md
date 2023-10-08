@@ -23,8 +23,6 @@ A figura abaixo apresenta o diagrama básico do módulo Urna. A descrição deta
 
 Figura 1. Diagrama de entradas e saídas do módulo Urna
 
-![image](https://github.com/mtsfreitas/morse-code-in-verilog/assets/21324690/48804d61-b8a9-414b-8b22-a4ba03f3a272)
-
 ![image](https://github.com/mtsfreitas/morse-code-in-verilog/assets/21324690/9869c810-d8cd-4916-af3e-bbf47b9d8ea5)
 
 Tabela 1. Descrição dos sinais do módulo Urna.
