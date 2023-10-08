@@ -5,11 +5,17 @@
 Uma Máquina de Estados Finitos (Finite State Machine) é um modelo matemático amplamente utilizado na representação do comportamento de sistemas computacionais e circuitos lógicos em geral. O modelo pode ser genericamente descrito como uma máquina abstrata que sempre deve estar em algum de seus finitos estados, um por vez. O estado no qual a máquina se encontra em dado instante é conhecido como estado atual. Todos os estados armazenam informações sobre o passado, isto é, as mudanças ocorridas desde o início do sistema até o presente momento. Uma transição indica uma mudança de estado e é descrita através de uma condição que precisa ser realizada para que tal transição ocorra. Uma ação é a descrição de uma atividade que deve ser realizada em um determinado momento.
 
 Este trabalho prático consiste no projeto e implementação de uma Máquina de Estados Finitos que simule o comportamento de uma Urna Eletrônica simplificada. A FSM deverá ser responsável por receber o número de um candidato e concluir se o voto é válido ou não, de acordo com as especificações abaixo:
+
 ● A urna possui quatro candidatos;
+
 ● Os votos são contabilizados individualmente;
+
 ● Os candidatos são identificados através de números de 4 dígitos, que deverão corresponder aos últimos 4 dígitos das matrículas dos 4 integrantes do grupo. Números fictícios deverão ser propostos por grupos com menos de 4 integrantes;
+
 ● Qualquer voto destinado a um número inválido (diferente dos números de todos os candidatos cadastrados) é contabilizado como nulo;
+
 ● O pleito elege um único candidato. Isso significa que um eleitor pode votar em somente um dos quatro candidatos disponíveis.
+
 
 A figura abaixo apresenta o diagrama básico do módulo Urna. A descrição detalhada das interfaces de entrada e saída é apresentada na Tabela 1.
 
