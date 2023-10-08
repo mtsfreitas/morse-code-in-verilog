@@ -43,9 +43,11 @@ observada na borda de subida (de 0 para 1).
 Para o sinal ready consideramos que o código é computado (saída altera conforme a entrada) apenas na borda de subida do sinal (de 0 para 1).
 
 Após a execução obtivemos o seguinte resultado na tela:
+
 ![image](https://github.com/mtsfreitas/morse-code-in-verilog/assets/21324690/4824a8b0-06dc-4324-a091-47a94cc3dee5)
 
 Formas de ondas da simulação:
+
 ![image](https://github.com/mtsfreitas/morse-code-in-verilog/assets/21324690/c98d7805-f1f0-4a52-a926-8a2f25e6ad82)
 
 # FPGA
